@@ -1,7 +1,7 @@
-I'm wahome charles, a IT specialist with a passion for programmin,networkin,database.
+I'm wahome charles, a IT specialist with a passion for programming,networking,database.
 
-programmin
-networkin
+programming
+networking 
 database
 
 Wahomekcharles@gmail.com
